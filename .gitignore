@@ -1,0 +1,22 @@
+﻿# React (my-app)
+my-app/node_modules/
+my-app/build/
+my-app/dist/
+my-app/.cache/
+*.log
+# Python (backend)
+backend/__pycache__/
+backend/*.py[cod]
+backend/venv/
+backend/.mypy_cache/
+backend/pytest_cache/
+# Env
+*.env
+.env.*
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Coverage
+coverage/
